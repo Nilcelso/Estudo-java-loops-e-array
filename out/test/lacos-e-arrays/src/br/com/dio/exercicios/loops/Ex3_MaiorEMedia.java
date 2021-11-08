@@ -25,7 +25,7 @@ public class Ex3_MaiorEMedia {
             if (numero > maior){
                 maior = numero;
             }
-            
+
             count++;
 
 
